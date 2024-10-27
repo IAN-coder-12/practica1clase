@@ -63,3 +63,14 @@ body{
    
    
 }
+
+.contenedor .contenedor_principal .inicio{
+    width: 90%;
+    margin: auto;
+    height: auto;
+    font-size: 20px;
+}
+.contenedor .contenedor_principal .inicio img{
+    width: 120px;
+    height: auto;
+}
