@@ -70,7 +70,7 @@ body{
     flex-direction: column;
     justify-content: center; /* Centra los elementos verticalmente */
     align-items: center; 
-    text-align: center;
+    text-align: left;
     font-size: 20px;
     color: #fff;
 }
@@ -78,4 +78,8 @@ body{
     width: 300px;
     border-radius: 10px;
     height: auto;
+}
+.contenedor .contenedor_principal .inicio a{
+    color: rgb(57, 140, 255); 
+
 }
